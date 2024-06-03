@@ -1,5 +1,5 @@
 # Nombre del Proyecto
-Taller 2
+Taller # 2
 ## Descripción
 Este repositorio tiene el proposito de mostrar los 20 ejercisios en while, do ehile y for que envio de practica el profesor
 ## Instalación
